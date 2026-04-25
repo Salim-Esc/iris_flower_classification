@@ -1,2 +1,2 @@
-# iris_flower_classification
-Classify flowers into setosa, versicolor, virginica
+# Iris_Flower_Classification
+Classify flowers into setosa, versicolor, virginica using SVM
